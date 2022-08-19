@@ -1,0 +1,18 @@
+InAs with GaSb into it. Create a triple Quantum well.
+
+We create a wierd situation where ground state for the hole is higher than the electrons whcih is siting in the GaSb
+
+Band inversion- is the name for this situation. 
+
+this creates a chiral state where in order to scatter, it need to have a state to scatter into but this chirality makes that not very easy to comeby. 
+
+we are going to grow this band inverted wells.
+
+First we replicate the germanes work 001 GaSb
+and then do our patentented 111 GaSb 
+
+500 nm GaSb takes 3 hours on 111
+
+anytime we use aluminum we always cap it because it oxides extremely fast
+
+
