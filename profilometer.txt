@@ -1,0 +1,31 @@
+we like the bigger stylus for step resolution 12.5 micron
+
+the do the tip changes and callibration
+
+couple microns of photo resist range 6.5 micron this time
+
+standard scam 
+
+hills and valleets
+
+correct styles is color coded
+
+stylus force how hard you want to push down
+
+we have to teeach the length of scan with the little wand
+
+roulpghly 20 sec scan is pretty good for 200 micron scan
+
+want to reduce the slope of the before the slope. the slope was postiive so we turn the nob counter clockwise
+
+the software can fine tun the base if the knob os not accurate enough
+
+measjememnt setup buttong top middle gets you where you are going
+
+deleted something on "scan" and added terms removal post porcessing to level the data
+
+right click the graph and get to data leveling sttings . two point linear fit is the one 
+
+step hieght is down in watch list. we can screen shot at this stage
+
+we used standard photoresist
