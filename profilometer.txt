@@ -29,3 +29,27 @@ right click the graph and get to data leveling sttings . two point linear fit is
 step hieght is down in watch list. we can screen shot at this stage
 
 we used standard photoresist
+ 
+right click the screen to align
+
+for a 3d scan:
+    gunna be a measurement instead ogf single aquisition
+    standarts scan type to map scan type
+    number of traces is number of scans
+    flip sample 180 and do re null
+when leveling you can level at a lowe resolution first
+
+avoid dark edges
+
+Need to make it such that we are averaging over 10 scans and it takes 5 mins. Might need to do 8 scans to achieve a 3 minute scan
+pull up the data folder and copy each scans data to jays folder
+
+
+sample 7:
+    doing 10, 15 second scans
+    6.5 resolution. Taking the middle of the sample everytime because the sample is ugly. this will minimize the weird y axix effects of the map scan.
+    1. screen shot the beggening of the scan.
+    2. Save the data file
+    3 screen shot the avg higher data analysis
+    4. screen shot map picture:
+    This set up creates a clean 2 micron original step height!
