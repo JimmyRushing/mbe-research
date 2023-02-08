@@ -1,0 +1,15 @@
+tapping mode or non-contact
+
+a sharp probe is  few atoms accross. even after it wears down it can be ten or so atoms across.
+
+the natural resonance of the cantilever has a distrinution just like a potential energy curve for a diatomoc molecule. as the probe gets into a vanderwalls bond distance with the surface the frequency that the proe resonates slows down. 
+
+tuning the probe means finding the resonance of the probe then move the probe up and down to map out that potential energy looking curve for rresonancy
+
+we also find the amplitude of the probe in free space
+
+so the amplitude is pretty stable in free space. Also that isnt free space? is the tuning more accurate in the vacuum chamber?
+
+in normal tapping mode you have large amplitude oscilations and you enter the repulsive regime actually hitting the surface. this can damage the sample and probe and mess with measurements. non contact is harder to pull off because the attractive regime is a very narrow regime. water can mess up non contact attractive resonance:
+
+a TESPA probe a is a tapping mode etched silicon probe with aluminum. we chose this as a substitute for the scout probe as the software didnt have this option.
