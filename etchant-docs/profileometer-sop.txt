@@ -1,0 +1,26 @@
+We have 5 samples. We need to a first scan to set the original step height
+
+load sample with low side facing the user( photoresist faceing away
+
+Turn renulling on. 
+
+use map scan 
+
+take a picture of the beggining and ending points of the scan
+
+do ten scans 
+
+screen shot scan parameters
+
+scanning as deep into the sample as possible so we dont get the edge effects so drastically. 
+
+click save data set to your own directory for future analysis
+
+for sample 5 im going deeoper into the photoresist in order to atone for the edge roughness
+
+when calculating step hieght, make sure to increase curser hieght to get all scans
+
+to get error bars for my droplet. lets do ten map scans of the same droplet and see what the difference is. I will do this on a dummy wafer
+
+current plan is to put a droplet of photoresist on. use a chemwipe to absorb some the hight away from the dot. :wq
+

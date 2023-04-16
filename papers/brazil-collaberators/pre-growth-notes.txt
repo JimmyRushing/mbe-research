@@ -1,0 +1,29 @@
+how doping works for be and Si. Is there a Rios type data set somewhere or can we use the old recipe for that. 
+
+What GR are we trying to achieve? 
+
+Which recipe from the past can use as a template
+
+either ramp the silicon will growing. probably stop the growth to change the silicon doping. micron an hour. we need to convert that to monolayers per second. total growth rate has to be less that a micron an hour. for GaAs we will do 1 micron an hour 
+
+do rios at 1040
+
+just do aluminum and gallium rios
+
+lattice constant alAS 5.66A
+
+final layer we just heat the gallium back
+
+everything is at a micron an hour have to ramp beryllium
+
+doping callibrations on google drive under callibrations
+
+script the doping math from this info
+
+take silicon up to 1275 to degas for 15 mins and beryllium at 30 degress higher than we use to grow . 
+
+SECOND GROWTH
+
+bragg mirror 
+
+    

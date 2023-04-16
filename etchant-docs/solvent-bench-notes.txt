@@ -1,0 +1,99 @@
+login to right side of solvent bench 
+
+if recipe is fully logged means you can log in with "bsu"
+
+if you are developing a recipe then ity will be a differnet log in
+ 
+keep spin coat knob clean becuase its a vacuum
+
+isoproplal, rinsing photorisitst can go down cup sink 
+
+soft bake on the left
+
+you have a day to expose the photo resist
+
+update ssop for small piece recipe ECE540L-HMDS is for a 4 inch wafer
+
+this might be why many of the photo resists are messeed up 
+
+HDMS_Simmonds is the new recipe
+
+you have to hit the vacuum button . it malfuntioned making a vacuum(perhaps the wafer is too small?)
+
+3/4 inch square wafer is necessary for spinnig 
+
+basic photo risist has the math for how long to expose the photo resist
+
+photo resist was 2.5 micron, 3500 rpm for 30 seconds, exposure time was 18 seconds based on the ellipsometor and it took roupghly 45 seconds of developement time.
+
+5 minute soft back to get the photoresist to stick to the wafer with photo reesist.`
+
+lamp power and and lamp ignotor on ellipsometor to turn on then software is complete ease"
+
+new recipe is about 3.3 microns of photoresists. which equates to 320 dosage. 21 seconds
+could have done 22 or 23 seconds as all the resist didnt come off. we developed the photo resist for 30 seconds. 
+
+developer can go right back into the container for recycling
+
+MARCH 29 NOTEs
+
+Baking a small silicon pice onto a 1/4 2 inch wafer to test everything
+
+Baking at 115 for 2 mins adhere a small wafer to the above one
+
+Baking hdms for 60 seconds on small wafer
+
+Baking the actual photoresist layer for 3 minutes so that the heat can get all the way through
+
+For the mask aligner: in option 2 select pressure contact in option three we need option 1 and 2 (exposure pressure constant exp pressure
+
+Power-on requires on switch and then hold start until the gauge flips
+
+I did a 26 second exposure to cook that beast. YOU MUST BLOCK THE LIGHT UNDERNEATH THE GLASS THING WHICH IS WHY SOME LIGHT WAS GETTING INTO THE OTHER ONES. 
+
+NEED TO HARD BAKE AFTER UV CURING THE PHOTORESIST. I AM DOING 90 SECONDS BECUASE OF THE TWO LAYERS.
+
+THE "check list " has more information that the SOP yuck.
+
+April 7 2023
+
+2 minute soft bake on wafer gluing process
+
+
+90 seconds soft bake on HMDS step 
+
+2 min soft bake main phot resist
+
+Do not leave HMDS on for any excess time, can get under the wafer, do not glob on too much either 
+
+Changing to 90 then 60 then 90 for soft bakes (THIS SEEMED TO HAVE WORKED IM USING THIN 2 INCH SILICON WAFERS SO I DONT NEED TO CRANK THE HEAT AS MUCH AS BEFORE. 
+
+For the glue stage spin slow so you have a thicker glue 
+
+The glob of HMDS matters a lot, if it goes past the edges of the sample, it will jump 
+
+For the glue layer I started the spin process for HDMS and killed it as soon as the blob spread out. Just want a thick layer of glue
+
+The wafers kept jumping off. I found that  the above sentence plus pushing on the upper wafer with the smooth side of tweezers to glue down well plus making sure we are for real centered keeps them from jumping out. 
+
+
+For m620 
+Exposing for 20 seconds 
+
+It like either all the photo resist comes off or none comes off. Don't know what the fuck is going on
+M631 #2 and 3 have been exposed but not hard baked or developed
+M631 #1 has been hard baked developed along with m620 #2 but I have no idea if it worked
+M620 #1 AND M631 #4 out of commission 
+Samples that not all the photo resist came off: m631#1 
+
+Don't etch the ones with tape
+
+
+Marking the beginning of the line with a blank, moving in clock wise rotation
+
+Capton tape 
+
+Need ziplock bags
+
+Another abject failure
+The masking doesn't work. The developer doesn't work. The spin coater doesn't work. 
