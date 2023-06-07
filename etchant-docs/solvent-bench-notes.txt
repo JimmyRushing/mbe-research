@@ -97,3 +97,20 @@ Need ziplock bags
 
 Another abject failure
 The masking doesn't work. The developer doesn't work. The spin coater doesn't work. 
+
+Place dot of photo resist absorb some. Plop sample in let gravity slide it around for a nice coating on the back . Bake at 125 for 2 minutes
+
+Place dot of photoresist on sample and absorb a lot
+Bake for 300 seconds
+
+Fold a chemwipe up to hold. Samples . Going from hot to cold metal can fuck up the photoresist
+
+put all small guys on one 2 inch wafer . labelled with photo restis. the 2 above the line a m620 and the three below are m640 (04-19-2023). the one with no line is inalas m644. two minute soft bake 115. let rest (not on cold surface) while the block is heating to 150. then hard bake ffor 2 minutes. I can make these dots smaller. 
+
+remove inAlAs 7 8 1 4 
+
+softbaked on large wafer for 60. hard baked for 30 at 150 indivudually and then mounted and then super soft bake at 100 for 30
+
+05-26-23
+Accidentally mounted before hard baking.going to soft bake ofor 10 minutes instead. Going to hard back after and if I see any evidence of bubbling I'm taking it off. Did hard bake for 25 at 135. This seems to work well. Just have to make sure you slide samples around so there isn't too much resist under samples and or bubbles under samples. 
+

@@ -24,3 +24,13 @@ to get error bars for my droplet. lets do ten map scans of the same droplet and 
 
 current plan is to put a droplet of photoresist on. use a chemwipe to absorb some the hight away from the dot. :wq
 
+taking a picture to show which dot is which
+
+
+M644 is etching down but not uniformly I saved the surface profile. It is exactly 325 nm deep pits 
+
+05-26-23
+
+The InAlAs calibration sample has discernible dislocation lines. It will be interesting too see how that etches. At least I think that is what the pattern on the surface is
+
+

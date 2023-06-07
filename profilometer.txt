@@ -53,3 +53,11 @@ sample 7:
     3 screen shot the avg higher data analysis
     4. screen shot map picture:
     This set up creates a clean 2 micron original step height!
+
+
+
+YOU HAVE TO RIGHT CLICK AND CLICK VIEW WATCH LIST IN ORDER TO GET THE AVERAGE
+	MAKE THE CURSER WIDTH FIRST BECAUSE, IF NOT, YOU LOSE YOUR DATA LEVELING. 
+
+
+Map scan blots. Right click on map scan and hit poly line. This will allow you the measure the width of the blot from any angle. The small unblotted guy was 130 microns and the bigger blotted one was 30. 120 back to 7.5 minutes then increase the temp to 150 and cook for 10
