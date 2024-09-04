@@ -1,0 +1,78 @@
+
+two doors. both are viable,
+
+    need to be trained for for sample prepped area. the do poweder prep there so it doesnt matter to me
+
+    only does one theinkg. need to have films. it only works on single crystal. 
+
+    question from the audience: will ths work on poly crysalline bulk. answer should use the hugher flux smart lab xrd. smart lab is more of a broad brush. 
+
+    its dummy proof in terms of safety by the interlock system. 
+
+    first step: check the box on the side, inside the machine will have orange lights if the genreatir is running. if all loghts are off  tell facilities because something is broken.
+
+    next thing is unlock the door
+    the right door ublock is broken
+    to open door pull handle and slide to left
+    lead shutter is communicates the with the interllock ti shut around the sorce.
+
+    there is a shuuter light on the box inside the interlock its red or green if closed
+
+    numnber one thing !! always look at the indicator to see that the shutter is closed BEFORE hitting the open door button. doing so will trigger it to turn off the machine whcih is a bitch
+
+    attenuator is the physical device that correspons to the absorberin the software. the absorber number is the attenuation coeeficient whcih just down regulare the beam.
+
+    the monochromotor pairs the beamn to only exactly the k-alpha 1 emmision of the copper source. the k alpha 2 comes out but gets sifted
+
+    goniometer is the thing that moves through the degrees of freedom
+
+    these degrees of freedom are rotational, translational
+
+    first one omega is the angle of incedence. the software calls this theta!!! it rotates the bottom
+    chi is the swoop 
+    phi is rotation of the actual sample stage. phi is noramlly close to 0
+    2 theta is actually called to theta in the software
+
+    the instroment has 2 detectors to choose from. one of those has 2 different paths. one has a slit that can make more exact angle crystal
+
+    the other is a lykseye detector. the benfit of this one is its faster because it is continuous. but it limits the resolution,. we only use this if we are doing measurements like RSMs!! we only use the lykesye for the RSM. not the other one.
+
+    there are two sample stages small and large. first valve on the vvacuum chuck opens the inner holes and you can open up concentric circles of vacuum. the holes are all interconected so you can only open the ones under the sample
+
+    if you are using tape to secure sample DONT USE VACUUM because it can suck in the goo in
+
+    SOFTWARE NOTES:
+
+
+most important thing is : there is a data collection and analysis window has the software XRD commander. and also XRD wizard which can help set up RSMs. 
+
+there are slits at everythreshold of the source. the farthest right one should never be used. the ones on either side of the monochrometer are actually used to set length and width of the of the beam that hits the sample. the are of the beam that hits the sample can be like inches wide
+
+
+beam without a slit is about 12 mm the other one is 6 and there is a pinhole beam as well. these are post on the frint glass of the door
+
+xrr for film thickness and surface roughness to correlate to the ellipsometry data
+
+white number set point and the grey are working point
+
+two arrows at the top. the right one its how to choose which detector you are using.  if you switch to lynkeye you gotta also tell the software seperately what kind of info is comeing from the detector
+
+ALL slignment in the varuable slit. then you would switch to RSM lynkseye detector. 
+
+to make the set point go into effect you gotta hit move MOVE DRIVE and NOT INITIALIZE DRIVES!! this will turn ther photon generator drives off
+
+if 2theta is zero. absorber needs to be 70 something
+
+antisclatter slit is the one infront of the detector
+
+when the sop says OPTIMIZE it means double click the spot on the chart
+
+in the iteratin z and rocking curve . we do this + or - .3 around the first z value we found
+
+rocking curve optimized theta. if theta moves on differetnt scans, you might need to set offsets to actually get reflection
+
+save in the folder that you make in the temp folder
+
+at the end take the sample out and turn off vacuum
+
+

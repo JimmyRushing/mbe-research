@@ -1,0 +1,19 @@
+10-23-23
+
+Challanges: they are grown on 111
+how we etch mazer for confinement will be vastly different on 111
+we grew some test LED structures 
+sifat started by making ohmic contacts 
+shokey contact is ok but ohmic contanct is better
+Start the process at harvard clean rooom
+p-type contacts are easy but research is still ongoing for n-type
+why not put a thin layer of InAs just below where your ntype contact
+yea could could get near metallic ctransport 
+the project could be grown GaSb 111 telluriem doped. put some inas on top. 
+literature sourch for 111 device structure
+need to do: can we etch gasb 111
+look at in on SEM. 
+thinking about n-type contacts for GaSb
+final part: use next nano to simulate the strucure for the device
+investigat the crystat potential:
+
