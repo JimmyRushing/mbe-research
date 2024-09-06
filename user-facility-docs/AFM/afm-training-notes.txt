@@ -1,0 +1,45 @@
+
+
+the date is sept 4, 2024
+
+need one more training to be fully certified
+
+no password on computer
+standard tip holder may be shipped off for mainteneance soon (2 weeks down time) can use a different mount that has strong magnet. 
+
+go into standard AC air mode topography 
+
+
+orca is conductive afm. 
+
+always safe to hit focus on tip. not always safe to focus on sample because you can crash
+
+you can right clcik and hit spot on to move stage
+
+then get focused on the tip
+
+generally want the sum to be as close to 9 as possible 
+
+want delflection to be 0. to achieve that just hit "zero pd"
+
+auto decimate possibly needed. the sum will very by tip coatings reflection.
+
+hold shift and hit the top left arrows to move laser
+
+once the focus is correct on tip and and sample then its safe to move to pre engage whcih brongs the tip to 50 microns
+
+had to toy with exposure and zoom (bottom left) 
+
+    gotta hit SET**
+
+    just need to get the free air resonance from the auto tune. just set the range to meet the specs of the probe we choose
+
+    higher gain (up to 30 or 40) helps protect the new tip *in imaging mode tab to the left*
+
+    starrt at 5 micron and 1 Hz
+
+    phase should be below 90 ideally
+
+    save to elements drive cns user make your own folder
+
+    
